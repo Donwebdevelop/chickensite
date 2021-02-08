@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(39, 39, 39);
+  margin: 100px 100px;
+  color: rgb(163, 163, 163);
+}
+
+div {
+  margin-top: 50px;
+  font-size: large;
+}
+
+.days {
+  margin-left: 50px;
+  font-size: large;
+  display: inline-block;
+  min-width: 30px;
+}
+
+.numbers {
+  margin-left: 50px;
+  display: inline-block;
+  min-width: 40px;
+}
+
+.chickennames {
+  display: inline-block;
+  min-width: 110px;
+}
+
+.total {
+  margin-top: 55px;
+  color: rgb(238, 235, 235);
+}
+
+.additional {
+  margin-top: 100px;
+}
+
+.info {
+  margin-top: 25px;
+}
+
+a {
+  color: rgb(107, 98, 98);
+  margin-right: 50px;
+}
+
+a:hover {
+  color: white;
+  transition: 1s;
+  transition-timing-function: ease-in;
+}
+
+.infodeliver {
+  margin-left: 35px;
+  display: inline-block;
+  min-width: 130px;
+}
+
+.infotitle {
+  display: inline-block;
+  min-width: 60px;
+}
